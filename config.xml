@@ -2,12 +2,12 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
 		xmlns:android = "http://schemas.android.com/apk/res/android"
-		id        = ""
-		versionCode=""
-		version   = "">
-		<name>RunChallenge App		</name>
-		<description>		</description>
-		<author href="" email="binura.g@gmail.com">Binura Gunasekara		</author>
+		id        = "1"
+		versionCode="1"
+		version   = "1">
+		<name>RunChallenge App</name>
+		<description>beta build	</description>
+		<author href="" email="binura.g@gmail.com">Binura Gunasekara</author>
 		<feature name="http://api.phonegap.com/1.0/file" />
 		<feature name="http://api.phonegap.com/1.0/geolocation" />
 		<feature name="http://api.phonegap.com/1.0/media" />
