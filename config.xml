@@ -43,6 +43,9 @@
     -->
 
 <access origin="*" />
+	 <access origin="*.google.com"/>
+    <access origin="*.googleapis.com"/>
+	<plugin name="plugin.google.maps.menusito" spec="1.2.5" source="pgb" />
 <plugin name="cordova-plugin-whitelist" version="1" />
 <allow-intent href="http://*/*" />
 <allow-intent href="https://*/*" />
